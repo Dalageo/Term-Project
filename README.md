@@ -1,5 +1,4 @@
-# Term-Project
-Calibration using AI
+# Term Project - Calibration using AI
 
 # Abstract
 This project aims at enhancing sensor data calibration through machine learning (ML) models, using the Gas Sensor Array Drift Dataset with 13,910 readings from sensors exposed to six gases over 36 months. By analyzing these sensor data, it develops Decision Tree and Random Forest models to accurately interpret sensor outputs. The Decision Tree model involves fine-tuning various hyperparameters, while the Random Forest model reduces overfitting by averaging multiple decision trees predictions, proving more effective in handling complex sensor drift data. It highlights the importance of advanced, regularly updated machine learning techniques for precise sensor calibration and suggests future enhancements for better accuracy
